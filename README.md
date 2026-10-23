@@ -1,6 +1,6 @@
 # Yori releases
 
-Yori is a local tool for reading, verifying and growing OKF (Open Knowledge Format) knowledgebases: rendered entries in tabs, a computed link graph and git as the only store. This repository holds the built apps and the update manifest; the source is private.
+Yori is a native Mac reader for a folder of markdown: point it at a directory and it renders the files as articles you can search, move between, highlight and comment on. It understands wiki conventions where a folder uses them and asks nothing of a folder that does not. This repository holds the built apps and the update manifest; the source is private.
 
 ## Install
 
